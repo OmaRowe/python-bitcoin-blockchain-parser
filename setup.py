@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from#setuptools import setup, find_packages
 from blockchain_parser import __version__
 
 
@@ -23,3 +23,4 @@ setup(
         'plyvel==1.2.0'
     ]
 )
+ 
